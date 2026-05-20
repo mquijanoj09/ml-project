@@ -1,0 +1,9 @@
+Perturbación,Val IoU
+Sin perturbación,0.8694
+Ruido Gaussiano (σ=0.05),0.8678
+Ruido Gaussiano (σ=0.10),0.8621
+Ruido Gaussiano (σ=0.20),0.8361
+Brillo +30%,0.8663
+Brillo -30%,0.8654
+Blur (k=5),0.8206
+Blur (k=9),0.7692
